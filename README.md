@@ -1,7 +1,7 @@
-### Enoch Adjei
+### e24z
 
 Final-year BSc Computer Science @ University of Leicester (First Class, graduating 2027).
-Interested in AI agent tooling & reliability, and quantitative / automated trading systems.
+Interested in AI agent tooling.
 
 **Recent work**
 - **[needle](https://github.com/e24z/needle)**: local context-pruning layer for AI coding agents (SWE-Pruner-style scoring, on-device MLX, MCP server; installable via Homebrew).
